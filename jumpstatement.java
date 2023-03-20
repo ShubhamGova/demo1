@@ -52,7 +52,7 @@ public static void main(String args[])
 
 
 
-/*
+
 
 class labelledbreakcontinue{ 
 public static void main(String args[])
@@ -75,7 +75,6 @@ public static void main(String args[])
 
 }
 }
-*/
 
 /*
 
