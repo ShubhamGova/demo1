@@ -1,0 +1,63 @@
+1. what is computer?
+Answer. 
+A computer is a programmable electronic device that processes data and performs various operations according to a set of instructions. It can handle a wide range of tasks and can be used for computation, data storage, communication, and control.
+
+
+
+2. what is RAM ?
+Answer.
+RAM stands for Random access memory, it is an temporary memory which store data for process and for performing of task too. the data is stored in it unitl the system switched off.
+it is a fast memory .
+
+
+
+3.Where is data stored in computer?
+Answer.
+there is two type of memory in a computer 
+a. RAM (Primary memory)
+b. RoM (Secondary memory)
+a.RAM- it is a short term storage memory used for storage of data to perform any task on it.
+b. ROM - it is used to store the permanent data in a memory it stands for Read Only Memory means we can only perform read operation in this memory, that's why it is also known as secondary memory.
+
+
+4.what is that input device used to type text and numbers on a document in the computer system?
+Answer.
+Keyboard
+Keyboards are fundamental for tasks such as typing documents,shortcut keys, sending emails, playing games, entering commands, and interacting with various software applications on the computer.
+
+
+5. What are the output devices?
+Answer.
+Output devices are peripherals or hardware components that display or present data processed by a computer or other electronic devices. 
+Examples are
+Moniter/ display
+printer
+projecter
+speaker
+headphone
+sound card etc.
+
+
+6. which is the input devices that allows a user to move the cursor or pointer on the screen ?
+Answer.
+Mouse
+A mouse is a hand-held pointing device that is widely used with computers and other digital devices. It typically consists of one or more buttons and a scrolling wheel.
+In recent years, touchpads and trackballs have also become popular alternatives to traditional mice for cursor movement on laptops and some other devices. However, the traditional mouse remains a widely used and reliable input device for cursor control and interaction with computers.
+
+
+
+7.which language is directly understood by the computer without a translation program?
+Answer.
+machine language or binary language
+The language directly understood by a computer without a translation program is the machine language, also known as machine code. Machine language is a low-level programming language that consists of binary code, represented by 0s and 1s. Each instruction in machine language corresponds to a specific operation that the computer's central processing unit (CPU) can execute directly.
+
+
+
+8. what are input devices?
+Answer.
+keyboard
+mouse
+trackPad
+webcame
+scanner 
+microphone etc.
